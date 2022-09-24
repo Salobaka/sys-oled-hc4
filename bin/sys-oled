@@ -18,6 +18,8 @@ show_logo = 'yes'
 net_name = 'eth0'
 s1_name = 'sd'
 s1_path = '/'
+s2_name = 'md0'
+s2_path = '/dev/md0'
 
 # Load config file
 config_file = '/etc/sys-oled.conf'
